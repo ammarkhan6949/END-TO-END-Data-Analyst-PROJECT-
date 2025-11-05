@@ -97,7 +97,7 @@ Performed SQL queries to answer key business questions and uncover customer insi
 ---
 
 ## 📸 Project Preview 
-![]()
+![](https://github.com/ammarkhan6949/END-TO-END-Data-Analyst-PROJECT-/blob/main/Screenshot%202025-11-04%20061454.png)
 
 ---
 
