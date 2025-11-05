@@ -97,7 +97,7 @@ Performed SQL queries to answer key business questions and uncover customer insi
 ---
 
 ## 📸 Project Preview 
-If you have visuals or dashboards, you can add screenshots here:
+![]()
 
 ---
 
