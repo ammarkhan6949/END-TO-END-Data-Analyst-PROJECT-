@@ -98,3 +98,25 @@ Performed SQL queries to answer key business questions and uncover customer insi
 
 ## 📸 Project Preview 
 If you have visuals or dashboards, you can add screenshots here:
+
+---
+
+## 🧑‍💻 Author
+**Ammar Khan**  
+📧 [ammarkhan6949@gmail.com]  
+💼 www.linkedin.com/in/ammar-khan-529a281bb
+
+
+---
+
+## 🏁 Final Thoughts
+This project highlights my ability to:
+- Handle data end-to-end (from raw to insights)
+- Connect Python with SQL databases
+- Design meaningful Power BI dashboards
+- Communicate insights clearly for business impact
+
+If you like this project, don’t forget to ⭐ **star the repo** and connect with me on LinkedIn!
+
+---
+
