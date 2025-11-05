@@ -1,6 +1,6 @@
-# END-TO-END-Data-Analyst-PROJECT-
 
-# 🧠 End-to-End Data Analyst Project – Customer Behavior Analysis
+
+#  End-to-End Data Analyst Project – Customer Behavior Analysis
 
 This project demonstrates a **complete end-to-end data analysis pipeline** — from raw data cleaning and transformation in Python, to SQL-based analysis, and finally to interactive Power BI dashboards for visualization.  
 The goal was to analyze **customer behavior** and uncover insights that help drive **data-driven business decisions**.
