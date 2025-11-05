@@ -90,10 +90,4 @@ where previous_purchases >5
 group by subscription_status
 
 
--- Q10 What is the revenue contribution  of each age group?
 
- select age_group,
- sum(purchase_amount) as total_revenue
- from customer 
- group by age_group
- order by total_revenue desc
